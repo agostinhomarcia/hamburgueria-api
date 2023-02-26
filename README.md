@@ -7,13 +7,13 @@
 
  
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/front-end-hamburgueria?color=D93856">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/hamburgueria-api?color=D93856">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/front-end-hamburgueria?color=D93856" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/hamburgueria-api?color=D93856" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/front-end-hamburgueria?color=D93856" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/hamburgueria-api?color=D93856" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/front-end-hamburgueria?color=D93856" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/hamburgueria-api?color=D93856" /> 
 </p>
 
 
@@ -53,10 +53,9 @@
 
 The following tools were used in this project:
 
-- [React](https://pt-br.reactjs.org/)
-- [Styled-components](https://styled-components.com/docs/) 
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+- [Node](https://nodejs.org/en/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+
 
 
 ## :white_check_mark: Requirements ##
@@ -68,13 +67,13 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/front-end-hamburgueria.git
+$ git clone https://github.com/agostinhomarcia/hamburgueria-api.git
 # Access
-$ cd front-end-hamburgueria
+$ cd hamburgueria-api
 # Install dependencies
 $ yarn or npm 
 # Run the project
-$ yarn start or npm start 
+$ yarn run dev or npm run dev
 # The server will initialize in the <http://localhost:3000>
 ```
 <hr>
