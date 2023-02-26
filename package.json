@@ -1,0 +1,23 @@
+{
+  "name": "hamburgueria-api",
+  "version": "1.0.0",
+  "description": "back-end projeto hamburgueria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [
+    "cadastro"
+  ],
+  "author": "Marcia Agostinho",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
